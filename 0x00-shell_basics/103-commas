@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m
+ls -m mix files/folders
